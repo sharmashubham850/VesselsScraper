@@ -144,7 +144,7 @@ def marine_traffic(IMOs, headers=headers):
         print('(Done)')
 
 
-# Saves data to Excel file by using pandas dataframe
+# Saves vessels data to Excel file using pandas dataframe
 def save_data(filename):
     global ships_details
     rows = len(ships_details['IMO No.'])
