@@ -1,6 +1,6 @@
 # VesselsScraper
 
-Its a web scraper which can be user to scrap vessels data from www.vesseltracker.com and https://www.marinetraffic.com and export it to an Excel file.
+A web scraper to scrap vessels data from www.vesseltracker.com and https://www.marinetraffic.com and export it to an Excel file.
 
 ### Tools used:
 - Python3
